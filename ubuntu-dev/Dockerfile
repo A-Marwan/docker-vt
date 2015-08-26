@@ -1,4 +1,4 @@
-FROM mar2max/ubuntu
+FROM mar2max/docker-vt-ubuntu
 MAINTAINER A-Marwan <amamou.marwan@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
